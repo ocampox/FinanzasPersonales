@@ -1,0 +1,1013 @@
+{
+  "creditCards": [
+    {
+      "availableLimit": 2050298.3599999999,
+      "color": "#FB8C00",
+      "createdAt": 1763786769018,
+      "cutoffDay": 15,
+      "id": 1,
+      "name": "Gold",
+      "paymentDay": 5,
+      "totalLimit": 3600000.0,
+      "updatedAt": 1766789567609
+    }
+  ],
+  "expenses": [
+    {
+      "accountId": 1,
+      "amount": 10000.0,
+      "category": "TRANSPORT",
+      "createdAt": 1765502996918,
+      "description": "Metro",
+      "expenseDate": 1765502996918,
+      "id": 8
+    },
+    {
+      "accountId": 1,
+      "amount": 2400.0,
+      "category": "ENTERTAINMENT",
+      "createdAt": 1764965438649,
+      "description": "Juego",
+      "expenseDate": 1764965438649,
+      "id": 7
+    },
+    {
+      "accountId": 1,
+      "amount": 56400.0,
+      "category": "TRANSPORT",
+      "createdAt": 1764607158221,
+      "description": "Parqueadero",
+      "expenseDate": 1764607158221,
+      "id": 6
+    },
+    {
+      "accountId": 1,
+      "amount": 40000.0,
+      "category": "FOOD",
+      "createdAt": 1764600397193,
+      "description": "Asado",
+      "expenseDate": 1764600397193,
+      "id": 5
+    },
+    {
+      "accountId": 1,
+      "amount": 10000.0,
+      "category": "ENTERTAINMENT",
+      "createdAt": 1764560961385,
+      "description": "App música",
+      "expenseDate": 1764560961385,
+      "id": 4
+    },
+    {
+      "accountId": 1,
+      "amount": 3100.0,
+      "category": "ENTERTAINMENT",
+      "createdAt": 1764280514750,
+      "description": "Juego",
+      "expenseDate": 1764280514750,
+      "id": 3
+    },
+    {
+      "accountId": 1,
+      "amount": 15000.0,
+      "category": "TRANSPORT",
+      "createdAt": 1764221719748,
+      "description": "Cívica",
+      "expenseDate": 1764221719748,
+      "id": 2
+    },
+    {
+      "accountId": 1,
+      "amount": 12900.0,
+      "category": "ENTERTAINMENT",
+      "createdAt": 1764113446013,
+      "description": "Google one",
+      "expenseDate": 1764113446013,
+      "id": 1
+    }
+  ],
+  "exportDate": "2025-12-26T18:58:35Z",
+  "purchases": [
+    {
+      "cardId": 1,
+      "createdAt": 1766789567479,
+      "description": "Netflix",
+      "id": 91,
+      "installmentAmount": 29900.0,
+      "installments": 1,
+      "purchaseDate": 1766789567479,
+      "totalAmount": 29900.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1766789551518,
+      "description": "Google",
+      "id": 90,
+      "installmentAmount": 12900.0,
+      "installments": 1,
+      "purchaseDate": 1766789551518,
+      "totalAmount": 12900.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1766789534032,
+      "description": "Gasolina",
+      "id": 89,
+      "installmentAmount": 43060.0,
+      "installments": 1,
+      "purchaseDate": 1766789534032,
+      "totalAmount": 43060.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1766789479649,
+      "description": "Discos clutch",
+      "id": 88,
+      "installmentAmount": 100333.33333333333,
+      "installments": 3,
+      "purchaseDate": 1766789479649,
+      "totalAmount": 301000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1766784948569,
+      "description": "Gaseosa",
+      "id": 87,
+      "installmentAmount": 3000.0,
+      "installments": 1,
+      "purchaseDate": 1766784948569,
+      "totalAmount": 3000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1766784942081,
+      "description": "Desayuno",
+      "id": 86,
+      "installmentAmount": 6600.0,
+      "installments": 1,
+      "purchaseDate": 1766784942081,
+      "totalAmount": 6600.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1766784922375,
+      "description": "Chocolatina",
+      "id": 85,
+      "installmentAmount": 3500.0,
+      "installments": 1,
+      "purchaseDate": 1766784922375,
+      "totalAmount": 3500.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1766600035705,
+      "description": "Gaseosas",
+      "id": 84,
+      "installmentAmount": 6000.0,
+      "installments": 1,
+      "purchaseDate": 1766600035705,
+      "totalAmount": 6000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1766600024000,
+      "description": "Desayuno",
+      "id": 83,
+      "installmentAmount": 4000.0,
+      "installments": 1,
+      "purchaseDate": 1766600024000,
+      "totalAmount": 4000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1766511303340,
+      "description": "Desayuno",
+      "id": 82,
+      "installmentAmount": 4000.0,
+      "installments": 1,
+      "purchaseDate": 1766511303340,
+      "totalAmount": 4000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1766452576867,
+      "description": "D1",
+      "id": 81,
+      "installmentAmount": 33560.0,
+      "installments": 1,
+      "purchaseDate": 1766452576867,
+      "totalAmount": 33560.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1766425408402,
+      "description": "Gaseosa",
+      "id": 80,
+      "installmentAmount": 3000.0,
+      "installments": 1,
+      "purchaseDate": 1766425408402,
+      "totalAmount": 3000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1766413940457,
+      "description": "seguro",
+      "id": 79,
+      "installmentAmount": 5900.0,
+      "installments": 1,
+      "purchaseDate": 1766413940457,
+      "totalAmount": 5900.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1766413597182,
+      "description": "Mercadolibre - crema peinar",
+      "id": 78,
+      "installmentAmount": 36340.0,
+      "installments": 1,
+      "purchaseDate": 1766413597182,
+      "totalAmount": 36340.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1766413535096,
+      "description": "Desayuno",
+      "id": 77,
+      "installmentAmount": 4000.0,
+      "installments": 1,
+      "purchaseDate": 1766413535096,
+      "totalAmount": 4000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1766246355759,
+      "description": "Gasolina",
+      "id": 76,
+      "installmentAmount": 45210.0,
+      "installments": 1,
+      "purchaseDate": 1766246355759,
+      "totalAmount": 45210.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1766166775794,
+      "description": "Gaseosa",
+      "id": 75,
+      "installmentAmount": 3000.0,
+      "installments": 1,
+      "purchaseDate": 1766166775794,
+      "totalAmount": 3000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1766156609673,
+      "description": "Desayuno",
+      "id": 74,
+      "installmentAmount": 4000.0,
+      "installments": 1,
+      "purchaseDate": 1766156609673,
+      "totalAmount": 4000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1766080211197,
+      "description": "Gaseosa",
+      "id": 73,
+      "installmentAmount": 3000.0,
+      "installments": 1,
+      "purchaseDate": 1766080211197,
+      "totalAmount": 3000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1766067576246,
+      "description": "Desayuno",
+      "id": 72,
+      "installmentAmount": 4000.0,
+      "installments": 1,
+      "purchaseDate": 1766067576246,
+      "totalAmount": 4000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765993703136,
+      "description": "Gaseosa",
+      "id": 71,
+      "installmentAmount": 3000.0,
+      "installments": 1,
+      "purchaseDate": 1765993703136,
+      "totalAmount": 3000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765917022292,
+      "description": "Gaseosa",
+      "id": 70,
+      "installmentAmount": 3000.0,
+      "installments": 1,
+      "purchaseDate": 1765917022292,
+      "totalAmount": 3000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765906273354,
+      "description": "Gaseosa",
+      "id": 69,
+      "installmentAmount": 3000.0,
+      "installments": 1,
+      "purchaseDate": 1765906273354,
+      "totalAmount": 3000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765898436764,
+      "description": "Desayuno",
+      "id": 68,
+      "installmentAmount": 4000.0,
+      "installments": 1,
+      "purchaseDate": 1765898436764,
+      "totalAmount": 4000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765843566599,
+      "description": "Dollarcity",
+      "id": 67,
+      "installmentAmount": 33000.0,
+      "installments": 1,
+      "purchaseDate": 1765843566599,
+      "totalAmount": 33000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765820938660,
+      "description": "Gaseosa",
+      "id": 66,
+      "installmentAmount": 3000.0,
+      "installments": 1,
+      "purchaseDate": 1765820938660,
+      "totalAmount": 3000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765813043721,
+      "description": "Repuestos",
+      "id": 65,
+      "installmentAmount": 85729.0,
+      "installments": 1,
+      "purchaseDate": 1765813043721,
+      "totalAmount": 85729.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765812959616,
+      "description": "Desayuno",
+      "id": 64,
+      "installmentAmount": 3800.0,
+      "installments": 1,
+      "purchaseDate": 1765812959616,
+      "totalAmount": 3800.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765647642860,
+      "description": "Mesa Aguinaldo sobrinos",
+      "id": 48,
+      "installmentAmount": 72299.0,
+      "installments": 1,
+      "purchaseDate": 1765647642860,
+      "totalAmount": 72299.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765647475588,
+      "description": "Temu mama",
+      "id": 63,
+      "installmentAmount": 63798.0,
+      "installments": 1,
+      "purchaseDate": 1765647475588,
+      "totalAmount": 63798.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765584140059,
+      "description": "pollo",
+      "id": 62,
+      "installmentAmount": 24000.0,
+      "installments": 1,
+      "purchaseDate": 1765584140059,
+      "totalAmount": 24000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765576953635,
+      "description": "Gym",
+      "id": 61,
+      "installmentAmount": 89900.0,
+      "installments": 1,
+      "purchaseDate": 1765576953635,
+      "totalAmount": 89900.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765561306417,
+      "description": "Gaseosa",
+      "id": 60,
+      "installmentAmount": 3000.0,
+      "installments": 1,
+      "purchaseDate": 1765561306417,
+      "totalAmount": 3000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765548862828,
+      "description": "Desayuno",
+      "id": 59,
+      "installmentAmount": 6800.0,
+      "installments": 1,
+      "purchaseDate": 1765548862828,
+      "totalAmount": 6800.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765502941872,
+      "description": "Desayuno",
+      "id": 58,
+      "installmentAmount": 6800.0,
+      "installments": 1,
+      "purchaseDate": 1765502941872,
+      "totalAmount": 6800.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765475379651,
+      "description": "Gaseosa",
+      "id": 57,
+      "installmentAmount": 3000.0,
+      "installments": 1,
+      "purchaseDate": 1765475379651,
+      "totalAmount": 3000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765388306857,
+      "description": "Gaseosa",
+      "id": 56,
+      "installmentAmount": 3000.0,
+      "installments": 1,
+      "purchaseDate": 1765388306857,
+      "totalAmount": 3000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765377466040,
+      "description": "Huevos - Ara",
+      "id": 55,
+      "installmentAmount": 10490.0,
+      "installments": 1,
+      "purchaseDate": 1765377466040,
+      "totalAmount": 10490.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765377448934,
+      "description": "Gasolina",
+      "id": 54,
+      "installmentAmount": 41828.0,
+      "installments": 1,
+      "purchaseDate": 1765377448934,
+      "totalAmount": 41828.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765377429849,
+      "description": "Desayuno",
+      "id": 53,
+      "installmentAmount": 6800.0,
+      "installments": 1,
+      "purchaseDate": 1765377429849,
+      "totalAmount": 6800.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765301871142,
+      "description": "Gaseosa",
+      "id": 52,
+      "installmentAmount": 3000.0,
+      "installments": 1,
+      "purchaseDate": 1765301871142,
+      "totalAmount": 3000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765289783391,
+      "description": "Desayuno",
+      "id": 51,
+      "installmentAmount": 6800.0,
+      "installments": 1,
+      "purchaseDate": 1765289783391,
+      "totalAmount": 6800.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765146264805,
+      "description": "D1 cositas",
+      "id": 50,
+      "installmentAmount": 14470.0,
+      "installments": 1,
+      "purchaseDate": 1765146264805,
+      "totalAmount": 14470.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765146252160,
+      "description": "Ara cositas",
+      "id": 49,
+      "installmentAmount": 14960.0,
+      "installments": 1,
+      "purchaseDate": 1765146252160,
+      "totalAmount": 14960.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765123590837,
+      "description": "Conversión",
+      "id": 47,
+      "installmentAmount": 2244.84,
+      "installments": 1,
+      "purchaseDate": 1765123590837,
+      "totalAmount": 2244.84
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765123566573,
+      "description": "Conversión",
+      "id": 46,
+      "installmentAmount": 282.8,
+      "installments": 1,
+      "purchaseDate": 1765123566573,
+      "totalAmount": 282.8
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765123463785,
+      "description": "Gaseosa",
+      "id": 45,
+      "installmentAmount": 3000.0,
+      "installments": 1,
+      "purchaseDate": 1765123463785,
+      "totalAmount": 3000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765052707253,
+      "description": "Almuerzo mamá",
+      "id": 44,
+      "installmentAmount": 60400.0,
+      "installments": 1,
+      "purchaseDate": 1765052707253,
+      "totalAmount": 60400.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765052681865,
+      "description": "Bolsa rifle",
+      "id": 43,
+      "installmentAmount": 1000.0,
+      "installments": 1,
+      "purchaseDate": 1765052681865,
+      "totalAmount": 1000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765052519109,
+      "description": "Camiseta",
+      "id": 42,
+      "installmentAmount": 59940.0,
+      "installments": 1,
+      "purchaseDate": 1765052519109,
+      "totalAmount": 59940.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1765052411560,
+      "description": "Ropa mamá",
+      "id": 41,
+      "installmentAmount": 125880.0,
+      "installments": 1,
+      "purchaseDate": 1765052411560,
+      "totalAmount": 125880.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764944364075,
+      "description": "Desayuno",
+      "id": 40,
+      "installmentAmount": 6800.0,
+      "installments": 1,
+      "purchaseDate": 1764944364075,
+      "totalAmount": 6800.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764869967599,
+      "description": "Gaseosa",
+      "id": 39,
+      "installmentAmount": 3000.0,
+      "installments": 1,
+      "purchaseDate": 1764869967599,
+      "totalAmount": 3000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764858658920,
+      "description": "Desayuno",
+      "id": 38,
+      "installmentAmount": 4000.0,
+      "installments": 1,
+      "purchaseDate": 1764858658920,
+      "totalAmount": 4000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764785313909,
+      "description": "Gaseosa",
+      "id": 37,
+      "installmentAmount": 3000.0,
+      "installments": 1,
+      "purchaseDate": 1764785313909,
+      "totalAmount": 3000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764723624633,
+      "description": "YouTube Premium",
+      "id": 36,
+      "installmentAmount": 20900.0,
+      "installments": 1,
+      "purchaseDate": 1764723624633,
+      "totalAmount": 20900.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764705178230,
+      "description": "chocolatina",
+      "id": 35,
+      "installmentAmount": 3500.0,
+      "installments": 1,
+      "purchaseDate": 1764705178230,
+      "totalAmount": 3500.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764696481307,
+      "description": "Gaseosa",
+      "id": 34,
+      "installmentAmount": 3000.0,
+      "installments": 1,
+      "purchaseDate": 1764696481307,
+      "totalAmount": 3000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764683585469,
+      "description": "Desayuno",
+      "id": 33,
+      "installmentAmount": 4000.0,
+      "installments": 1,
+      "purchaseDate": 1764683585469,
+      "totalAmount": 4000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764611219639,
+      "description": "Gaseosa",
+      "id": 32,
+      "installmentAmount": 3000.0,
+      "installments": 1,
+      "purchaseDate": 1764611219639,
+      "totalAmount": 3000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764600379218,
+      "description": "Desayuno",
+      "id": 31,
+      "installmentAmount": 4000.0,
+      "installments": 1,
+      "purchaseDate": 1764600379218,
+      "totalAmount": 4000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764587037417,
+      "description": "Spotify",
+      "id": 30,
+      "installmentAmount": 10100.0,
+      "installments": 1,
+      "purchaseDate": 1764587037417,
+      "totalAmount": 10100.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764586973566,
+      "description": "AliExpress",
+      "id": 29,
+      "installmentAmount": 20043.25,
+      "installments": 4,
+      "purchaseDate": 1764586973566,
+      "totalAmount": 80173.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764524393034,
+      "description": "Temu mamá",
+      "id": 28,
+      "installmentAmount": 42103.0,
+      "installments": 1,
+      "purchaseDate": 1764524393034,
+      "totalAmount": 42103.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764523874511,
+      "description": "Temu mamá",
+      "id": 27,
+      "installmentAmount": 81963.0,
+      "installments": 1,
+      "purchaseDate": 1764523874511,
+      "totalAmount": 81963.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764481754139,
+      "description": "Gasolina",
+      "id": 26,
+      "installmentAmount": 43026.0,
+      "installments": 1,
+      "purchaseDate": 1764481754139,
+      "totalAmount": 43026.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764481737746,
+      "description": "Parqueadero santafe",
+      "id": 25,
+      "installmentAmount": 5500.0,
+      "installments": 1,
+      "purchaseDate": 1764481737746,
+      "totalAmount": 5500.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764440933783,
+      "description": "Gaseosa",
+      "id": 24,
+      "installmentAmount": 3000.0,
+      "installments": 1,
+      "purchaseDate": 1764440933783,
+      "totalAmount": 3000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764440910410,
+      "description": "Temu mamá",
+      "id": 23,
+      "installmentAmount": 20959.0,
+      "installments": 1,
+      "purchaseDate": 1764440910410,
+      "totalAmount": 20959.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764440896385,
+      "description": "Temu mamá",
+      "id": 22,
+      "installmentAmount": 30160.0,
+      "installments": 1,
+      "purchaseDate": 1764440896385,
+      "totalAmount": 30160.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764440879841,
+      "description": "Temu mamá",
+      "id": 21,
+      "installmentAmount": 79628.0,
+      "installments": 1,
+      "purchaseDate": 1764440879841,
+      "totalAmount": 79628.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764440832950,
+      "description": "Repuestos moto",
+      "id": 20,
+      "installmentAmount": 119500.0,
+      "installments": 1,
+      "purchaseDate": 1764440832950,
+      "totalAmount": 119500.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764338457725,
+      "description": "Gaseosa",
+      "id": 19,
+      "installmentAmount": 3000.0,
+      "installments": 1,
+      "purchaseDate": 1764338457725,
+      "totalAmount": 3000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764338348801,
+      "description": "Desayuno",
+      "id": 18,
+      "installmentAmount": 6800.0,
+      "installments": 1,
+      "purchaseDate": 1764338348801,
+      "totalAmount": 6800.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764276275200,
+      "description": "ajuste",
+      "id": 17,
+      "installmentAmount": 1000.0,
+      "installments": 1,
+      "purchaseDate": 1764276275200,
+      "totalAmount": 1000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764274301833,
+      "description": "Gaseosa",
+      "id": 16,
+      "installmentAmount": 3000.0,
+      "installments": 1,
+      "purchaseDate": 1764274301833,
+      "totalAmount": 3000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764253683835,
+      "description": "Desayuno",
+      "id": 15,
+      "installmentAmount": 4000.0,
+      "installments": 1,
+      "purchaseDate": 1764253683835,
+      "totalAmount": 4000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764185734505,
+      "description": "Gaseosa",
+      "id": 14,
+      "installmentAmount": 3000.0,
+      "installments": 1,
+      "purchaseDate": 1764185734505,
+      "totalAmount": 3000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764185715077,
+      "description": "Desayuno",
+      "id": 13,
+      "installmentAmount": 4000.0,
+      "installments": 1,
+      "purchaseDate": 1764185715077,
+      "totalAmount": 4000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764105638700,
+      "description": "Chocolatina",
+      "id": 12,
+      "installmentAmount": 3500.0,
+      "installments": 1,
+      "purchaseDate": 1764105638700,
+      "totalAmount": 3500.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764092959504,
+      "description": "Gaseosa",
+      "id": 11,
+      "installmentAmount": 3000.0,
+      "installments": 1,
+      "purchaseDate": 1764092959504,
+      "totalAmount": 3000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764042814669,
+      "description": "Desayuno",
+      "id": 10,
+      "installmentAmount": 4000.0,
+      "installments": 1,
+      "purchaseDate": 1764042814669,
+      "totalAmount": 4000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764042800652,
+      "description": "Netflix",
+      "id": 9,
+      "installmentAmount": 29900.0,
+      "installments": 1,
+      "purchaseDate": 1764042800652,
+      "totalAmount": 29900.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1764042743248,
+      "description": "Gaseosa",
+      "id": 8,
+      "installmentAmount": 3000.0,
+      "installments": 1,
+      "purchaseDate": 1764042743248,
+      "totalAmount": 3000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1763787551347,
+      "description": "Maquinas",
+      "id": 7,
+      "installmentAmount": 13499.0,
+      "installments": 1,
+      "purchaseDate": 1763787551347,
+      "totalAmount": 13499.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1763787249690,
+      "description": "Mercado libre - soporte - minox",
+      "id": 6,
+      "installmentAmount": 49513.5,
+      "installments": 2,
+      "purchaseDate": 1763787249690,
+      "totalAmount": 99027.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1763787169059,
+      "description": "Maquinas - gaseosas",
+      "id": 5,
+      "installmentAmount": 31000.0,
+      "installments": 1,
+      "purchaseDate": 1763787169059,
+      "totalAmount": 31000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1763787090816,
+      "description": "Gasolina",
+      "id": 4,
+      "installmentAmount": 42000.0,
+      "installments": 1,
+      "purchaseDate": 1763787090816,
+      "totalAmount": 42000.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1763787046123,
+      "description": "Mercado libre - Audífonos",
+      "id": 3,
+      "installmentAmount": 158316.66666666666,
+      "installments": 6,
+      "purchaseDate": 1763787046123,
+      "totalAmount": 949900.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1763787000840,
+      "description": "Gym",
+      "id": 2,
+      "installmentAmount": 89900.0,
+      "installments": 1,
+      "purchaseDate": 1763787000840,
+      "totalAmount": 89900.0
+    },
+    {
+      "cardId": 1,
+      "createdAt": 1763786987958,
+      "description": "Didi food",
+      "id": 1,
+      "installmentAmount": 27136.0,
+      "installments": 1,
+      "purchaseDate": 1763786987958,
+      "totalAmount": 27136.0
+    }
+  ],
+  "savingsAccounts": [
+    {
+      "balance": 660900.0,
+      "color": "#006C4C",
+      "createdAt": 1766785006252,
+      "id": 1,
+      "name": "Cuenta de ahorros",
+      "updatedAt": 1766785006252
+    }
+  ],
+  "version": "1.0"
+}
